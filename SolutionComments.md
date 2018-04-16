@@ -1,4 +1,5 @@
 #LeetCode Solved Problems
+
 title                                                |difficulty |comment
 :---------------------------------------------------:|:---------:|:----------------------------
 [Nim Game](https://leetcode.com/problems/nim-game/)    | Easy|只要桌面上剩余的个数不为4的倍数，则总可以赢的。为4的倍数时，对方总能让最后剩下4个，而让对方自己胜出。
